@@ -1,0 +1,5 @@
+This code is a deep learning project that was made for acdemic purposes 
+The Project is to detect the cancer cells in the colon by using a basic CNN model with an acuuracy of 94% 
+For the use of this code firt you have to downbload the dataset used in this project (or any other agumented data set)
+The dataset used in this project is Lung and Colon Cancer Histopathological Images can be found througt this link https://www.kaggle.com/andrewmvd/lung-and-colon-cancer-histopathological-images
+The project is an ipynb formate, it could be imported in google colab (recommended) or in juypeter notebook. 
